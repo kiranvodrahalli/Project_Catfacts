@@ -38,6 +38,7 @@ option_entries = []
 usrf = open(usr_options)
 for line in usrf:
   option_entries.append(line[:-1])
+usrf.close()
 
 
 # put these into a separate file

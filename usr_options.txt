@@ -1,0 +1,5 @@
+your_gmail
+your_password
+to_email
+email_subj
+email_message
